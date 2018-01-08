@@ -1,0 +1,9 @@
+F:\C#\大作业\zhangte\zhangte.Model\bin\Debug\zhangte.Model.dll
+F:\C#\大作业\zhangte\zhangte.Model\bin\Debug\zhangte.Model.pdb
+F:\C#\大作业\zhangte\zhangte.Model\obj\Debug\zhangte.Model.dll
+F:\C#\大作业\zhangte\zhangte.Model\obj\Debug\zhangte.Model.pdb
+F:\C#\2017\大作业\zhangte\zhangte.Model\bin\Debug\zhangte.Model.dll
+F:\C#\2017\大作业\zhangte\zhangte.Model\bin\Debug\zhangte.Model.pdb
+F:\C#\2017\大作业\zhangte\zhangte.Model\obj\Debug\zhangte.Model.dll
+F:\C#\2017\大作业\zhangte\zhangte.Model\obj\Debug\zhangte.Model.pdb
+F:\C#\2017\大作业\zhangte\zhangte.Model\obj\Debug\zhangte.Model.csprojResolveAssemblyReference.cache

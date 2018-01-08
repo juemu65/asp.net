@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zhangte.Model", "zhangte.Model\zhangte.Model.csproj", "{882BE632-4DF8-411D-940F-2AEB847517CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zhangte.Common", "zhangte.Common\zhangte.Common.csproj", "{9D080647-2A41-4E36-8B8B-F3575F79040A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zhangte.DAL", "zhangte.DAL\zhangte.DAL.csproj", "{34ABC028-5BC2-48CF-A2E0-DA55E0F7E47E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zhangte.BLL", "zhangte.BLL\zhangte.BLL.csproj", "{FB5054FC-9C48-4B22-B4FA-8F12B436F689}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zhangte.Web", "zhangte.Web\zhangte.Web.csproj", "{9A61DBBB-1877-4961-BD40-7617211D4F93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zxdmobile", "zxdmobile\zxdmobile.csproj", "{2D72BD2E-23C2-4330-A307-C09D0827BCCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{882BE632-4DF8-411D-940F-2AEB847517CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882BE632-4DF8-411D-940F-2AEB847517CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882BE632-4DF8-411D-940F-2AEB847517CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882BE632-4DF8-411D-940F-2AEB847517CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D080647-2A41-4E36-8B8B-F3575F79040A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D080647-2A41-4E36-8B8B-F3575F79040A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D080647-2A41-4E36-8B8B-F3575F79040A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D080647-2A41-4E36-8B8B-F3575F79040A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34ABC028-5BC2-48CF-A2E0-DA55E0F7E47E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34ABC028-5BC2-48CF-A2E0-DA55E0F7E47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34ABC028-5BC2-48CF-A2E0-DA55E0F7E47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34ABC028-5BC2-48CF-A2E0-DA55E0F7E47E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB5054FC-9C48-4B22-B4FA-8F12B436F689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB5054FC-9C48-4B22-B4FA-8F12B436F689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB5054FC-9C48-4B22-B4FA-8F12B436F689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB5054FC-9C48-4B22-B4FA-8F12B436F689}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A61DBBB-1877-4961-BD40-7617211D4F93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A61DBBB-1877-4961-BD40-7617211D4F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A61DBBB-1877-4961-BD40-7617211D4F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A61DBBB-1877-4961-BD40-7617211D4F93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D72BD2E-23C2-4330-A307-C09D0827BCCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D72BD2E-23C2-4330-A307-C09D0827BCCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D72BD2E-23C2-4330-A307-C09D0827BCCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D72BD2E-23C2-4330-A307-C09D0827BCCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

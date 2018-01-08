@@ -1,0 +1,10 @@
+F:\C#\大作业\zhangte\zhangte.Common\bin\Debug\zhangte.Common.dll
+F:\C#\大作业\zhangte\zhangte.Common\bin\Debug\zhangte.Common.pdb
+F:\C#\大作业\zhangte\zhangte.Common\obj\Debug\zhangte.Common.csprojResolveAssemblyReference.cache
+F:\C#\大作业\zhangte\zhangte.Common\obj\Debug\zhangte.Common.dll
+F:\C#\大作业\zhangte\zhangte.Common\obj\Debug\zhangte.Common.pdb
+F:\C#\2017\大作业\zhangte\zhangte.Common\bin\Debug\zhangte.Common.dll
+F:\C#\2017\大作业\zhangte\zhangte.Common\bin\Debug\zhangte.Common.pdb
+F:\C#\2017\大作业\zhangte\zhangte.Common\obj\Debug\zhangte.Common.dll
+F:\C#\2017\大作业\zhangte\zhangte.Common\obj\Debug\zhangte.Common.pdb
+F:\C#\2017\大作业\zhangte\zhangte.Common\obj\Debug\zhangte.Common.csprojResolveAssemblyReference.cache
